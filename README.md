@@ -1,4 +1,4 @@
-# 🗳️ Urna Paulist-o
+# 🗳️ Urna Paulistão
 
 Sistema web desenvolvido em PHP que simula o funcionamento de uma urna eletrônica para fins educacionais.  
 O projeto utiliza a arquitetura **MVC (Model-View-Controller)** para organização e separação de responsabilidades.
