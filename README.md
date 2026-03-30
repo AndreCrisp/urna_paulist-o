@@ -40,7 +40,6 @@ urna_paulist-o/
 ├── controllers/     # Controladores (regras de negócio)
 ├── models/          # Modelos de dados
 ├── views/           # Interfaces do sistema
-├── index.php        # Arquivo principal
 └── README.md        # Documentação do projeto
 ```
 
